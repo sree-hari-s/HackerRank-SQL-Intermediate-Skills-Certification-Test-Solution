@@ -1,6 +1,9 @@
 # HackerRank SQL (Intermediate) Skills Certification Test Solution
 
-I have completed the SQL(Intermediate) Skills Certification Test using MySQL.
+I have completed the SQL(Intermediate) Skills Certification Test using MySQL  
+
+[Solution here](MySQL)
+
 
 ## Contributing
 
